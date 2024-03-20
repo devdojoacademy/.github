@@ -1,0 +1,8 @@
+{
+    "name": "DevDojo Java 21 ECS Service Deploy",
+    "description": "Build, create ECR repo and deploy with CDK the ECS java service.",
+    "iconName": "octicon cpu",
+    "categories": [
+        "Java, AWS, ECS"
+    ]
+}
