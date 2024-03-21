@@ -1,7 +1,7 @@
 {
     "name": "DevDojo Infra CDK Deploy",
     "description": "Build and deploy AWS CDK infraestructure",
-    "iconName": "octicon cpu",
+    "iconName": "octicon cloud",
     "categories": [
         "AWS, CDK"
     ]
